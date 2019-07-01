@@ -1,2 +1,2 @@
 # dreamteam
-React Native, Nodejs, Vuetify &amp; stencil
+React.js, React Native + MaterialUI, Nodejs, Vuetify &amp; Stencil
